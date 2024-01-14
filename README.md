@@ -12,6 +12,6 @@ A small login page to review some styled-components and CSS concepts.
     <code>npm run dev</code>
   </li>
   <li>
-    In the branch <code>tailwindcss</code> you can proceed the same way to get the migrated code from Styled Components to TailwindCSS.
+    In the branch <code>tailwind-study</code> you can proceed the same way to get the migrated code from Styled Components to TailwindCSS.
   </li>
 </ul>
